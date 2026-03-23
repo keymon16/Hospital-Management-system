@@ -1,0 +1,28 @@
+body {
+    min-height: 100vh;
+}
+
+.login-page {
+    background: linear-gradient(135deg, #e9f3ff 0%, #f9fcff 45%, #f5f7fb 100%);
+}
+
+.card {
+    border-radius: 0.85rem;
+}
+
+.stat-card {
+    border: none;
+    box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.12);
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
